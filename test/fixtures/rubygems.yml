@@ -1,0 +1,31 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  downloads: 1
+  info: MyString
+  version_downloads: 1
+  version: MyString
+  homepage_uri: MyString
+  bug_tracker_uri: MyString
+  source_code_uri: MyString
+  gem_uri: MyString
+  project_uri: MyString
+  mailing_list_uri: MyString
+  documentation_uri: MyString
+  wiki_uri: MyString
+
+two:
+  name: MyString
+  downloads: 1
+  info: MyString
+  version_downloads: 1
+  version: MyString
+  homepage_uri: MyString
+  bug_tracker_uri: MyString
+  source_code_uri: MyString
+  gem_uri: MyString
+  project_uri: MyString
+  mailing_list_uri: MyString
+  documentation_uri: MyString
+  wiki_uri: MyString
